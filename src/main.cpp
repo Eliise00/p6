@@ -66,9 +66,21 @@ int main(int argc, char* argv[])
         square_array.push_back(squareTemp);
     }
 
+    auto        square_radius = 0.5f;
+
     // Declare your infinite update loop.
     ctx.update = [&]() {
         ctx.background(p6::NamedColor::Blue);
+        // Show a simple window
+        ImGui::Begin("Test");
+        ImGui::SliderFloat("Square size", &square_radius, 0.f, 1.f);
+        ImGui::End();
+
+        // Show the official ImGui demo window
+        // It is very useful to discover all the widgets available in ImGui
+        //ImGui::ShowDemoWindow();
+
+        ctx.square(p6::Center{}, p6::Radius{square_radius});
 
         // Draw array
         for (auto& i : square_array)
