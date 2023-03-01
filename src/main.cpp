@@ -4,21 +4,21 @@
 #define DOCTEST_CONFIG_IMPLEMENT
 #include "doctest/doctest.h"
 
-
 class square {
 private:
     glm::vec2 _pos;
     p6::Angle _dir;
-    float _speed;
-    float _radius;
+    float     _speed;
+    float     _radius;
 
 public:
     explicit square(float aspect_ratio)
-        : _pos(glm::vec2(p6::random::number(-aspect_ratio, aspect_ratio), p6::random::number(-1, 1))), //remplace seed avec la doc de p6
-        _dir(p6::Angle(p6::Radians(p6::random::number(p6::PI * 2)))),
-        _speed(p6::random::number()/500),
-        _radius(p6::random::number()/2)
-    {}
+        : _pos(glm::vec2(p6::random::number(-aspect_ratio, aspect_ratio), p6::random::number(-1, 1))), // remplace seed avec la doc de p6
+        _dir(p6::Angle(p6::Radians(p6::random::number(p6::PI * 2))))
+        , _speed(p6::random::number() / 500)
+        , _radius(p6::random::number() / 2)
+    {
+    }
 
     void draw(p6::Context& ctx) const
     {
@@ -30,11 +30,10 @@ public:
 
     void update()
     {
-        auto move = rotated_by(_dir, glm::vec2(_speed,0.f));
+        auto move = rotated_by(_dir, glm::vec2(_speed, 0.f));
         _pos += move;
     }
 };
-
 
 int main(int argc, char* argv[])
 {
@@ -66,7 +65,7 @@ int main(int argc, char* argv[])
         square_array.push_back(squareTemp);
     }
 
-    auto        square_radius = 0.5f;
+    auto square_radius = 0.5f;
 
     // Declare your infinite update loop.
     ctx.update = [&]() {
@@ -78,7 +77,7 @@ int main(int argc, char* argv[])
 
         // Show the official ImGui demo window
         // It is very useful to discover all the widgets available in ImGui
-        //ImGui::ShowDemoWindow();
+        // ImGui::ShowDemoWindow();
 
         ctx.square(p6::Center{}, p6::Radius{square_radius});
 
@@ -89,7 +88,6 @@ int main(int argc, char* argv[])
             i.update();
         }
     };
-
 
     // Should be done last. It starts the infinite loop.
     ctx.start();
