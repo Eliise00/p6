@@ -4,7 +4,7 @@
 #define DOCTEST_CONFIG_IMPLEMENT
 #include "doctest/doctest.h"
 
-class square {
+class Boid {
 private:
     glm::vec2 _pos;
     p6::Angle _dir;
@@ -12,8 +12,8 @@ private:
     float     _radius;
 
 public:
-    explicit square(float aspect_ratio)
-        : _pos(glm::vec2(p6::random::number(-aspect_ratio, aspect_ratio), p6::random::number(-1, 1))), // remplace seed avec la doc de p6
+    explicit Boid()
+        : _pos(glm::vec2(p6::random::number(-1, 1), p6::random::number(-1, 1))), // remplace seed avec la doc de p6
         _dir(p6::Angle(p6::Radians(p6::random::number(p6::PI * 2))))
         , _speed(p6::random::number() / 500)
         , _radius(p6::random::number() / 2)
@@ -58,11 +58,11 @@ int main(int argc, char* argv[])
 
     // Init array
 
-    std::vector<square> square_array;
+    std::vector<Boid> Boid_array;
     for (size_t i = 0; i < 20; ++i)
     {
-        square squareTemp(ctx.aspect_ratio());
-        square_array.push_back(squareTemp);
+        Boid boidTemp;
+        Boid_array.push_back(boidTemp);
     }
 
     auto square_radius = 0.5f;
@@ -82,7 +82,7 @@ int main(int argc, char* argv[])
         ctx.square(p6::Center{}, p6::Radius{square_radius});
 
         // Draw array
-        for (auto& i : square_array)
+        for (auto& i : Boid_array)
         {
             i.draw(ctx);
             i.update();
