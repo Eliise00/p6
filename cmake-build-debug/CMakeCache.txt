@@ -334,17 +334,24 @@ FETCHCONTENT_QUIET:BOOL=ON
 // for doctest
 FETCHCONTENT_SOURCE_DIR_DOCTEST:PATH=
 
+//When not empty, overrides where to find pre-populated content
+// for p6
+FETCHCONTENT_SOURCE_DIR_P6:PATH=
+
 //Enables UPDATE_DISCONNECTED behavior for all content population
 FETCHCONTENT_UPDATES_DISCONNECTED:BOOL=OFF
 
 //Enables UPDATE_DISCONNECTED behavior just for population of doctest
 FETCHCONTENT_UPDATES_DISCONNECTED_DOCTEST:BOOL=OFF
 
+//Enables UPDATE_DISCONNECTED behavior just for population of p6
+FETCHCONTENT_UPDATES_DISCONNECTED_P6:BOOL=OFF
+
 //Git command line client
 GIT_EXECUTABLE:FILEPATH=C:/Program Files/Git/cmd/git.exe
 
 //Value Computed by CMake
-GLFW_BINARY_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/lib/p6/third-party/glfw
+GLFW_BINARY_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/_deps/p6-build/third-party/glfw
 
 //Build the GLFW documentation
 GLFW_BUILD_DOCS:BOOL=ON
@@ -369,7 +376,7 @@ GLFW_IS_TOP_LEVEL:STATIC=OFF
 GLFW_LIBRARY_TYPE:STRING=
 
 //Value Computed by CMake
-GLFW_SOURCE_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/lib/p6/third-party/glfw
+GLFW_SOURCE_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/_deps/p6-src/third-party/glfw
 
 //Force use of high-performance GPU on hybrid systems
 GLFW_USE_HYBRID_HPG:BOOL=OFF
@@ -408,13 +415,13 @@ doctest_IS_TOP_LEVEL:STATIC=OFF
 doctest_SOURCE_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/_deps/doctest-src
 
 //Value Computed by CMake
-glm_BINARY_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/lib/p6/third-party/glpp-extended/lib/glm
+glm_BINARY_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/_deps/p6-build/third-party/glpp-extended/lib/glm
 
 //Value Computed by CMake
 glm_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-glm_SOURCE_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/lib/p6/third-party/glpp-extended/lib/glm
+glm_SOURCE_DIR:STATIC=C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/_deps/p6-src/third-party/glpp-extended/lib/glm
 
 //Dependencies for the target
 glpp-extended_LIB_DEPENDS:STATIC=general;glpp::glpp;

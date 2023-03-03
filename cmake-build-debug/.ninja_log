@@ -1,137 +1,196 @@
 # ninja log v5
-3	32	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-3	159	6977309929723287	CMakeFiles/Simple-p6-Setup.dir/src/tests.cpp.obj	a3dfa4e493006d5f
+8	45	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+13	202	6981725022479811	CMakeFiles/Simple-p6-Setup.dir/src/tests.cpp.obj	a3dfa4e493006d5f
+676	1052	6977309938645278	lib/p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj	deab31c7480bea58
+5516	7015	6977309998178699	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	94340e015d65ed1b
+33	1264	6977309940765768	lib/p6/CMakeFiles/p6.dir/src/internal/OpenGL_Debug.cpp.obj	bc7cfcab96ab01ef
 160	277	6977309930913544	lib/p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj	9c29af58830449c0
+2540	3266	6977309960780234	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.obj	104f2d11229074f7
+4755	4883	6977309976973859	lib/p6/third-party/img/libstb_image.a	3a014ef6d8283c64
+1472	3049	6977309958539758	lib/p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj	f24a9972fab5f842
+37	967	6977309937805093	lib/p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj	969a63e34c8cc4d8
 277	539	6977309933524110	lib/p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj	72809423ed9c8b54
 24	674	6977309934874420	lib/p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj	d2dd49e2a4b8eff8
-37	967	6977309937805093	lib/p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj	969a63e34c8cc4d8
-676	1052	6977309938645278	lib/p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj	deab31c7480bea58
-33	1264	6977309940765768	lib/p6/CMakeFiles/p6.dir/src/internal/OpenGL_Debug.cpp.obj	bc7cfcab96ab01ef
 28	1471	6977309942836235	lib/p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj	44aa65f95a28472
 539	1617	6977309944296543	lib/p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj	2a73c021bb67b679
 50	1710	6977309945116744	lib/p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj	1e647fde37dd543
+7941	8125	6977310009341122	lib/p6/third-party/exe_path/libexe_path.a	628a1fc5f10fe222
+6742	8186	6977310009971270	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	a1b29f291d78c599
 1265	1953	6977309947657295	lib/p6/CMakeFiles/p6.dir/src/math.cpp.obj	606675b7287e6d9f
 13	2368	6977309951798269	lib/p6/CMakeFiles/p6.dir/src/Image.cpp.obj	645c26812c44fb95
+5334	5491	6977309982945211	lib/p6/third-party/glpp-extended/libglpp-extended.a	29be01bf9c0b4526
+5111	5248	6977309980594702	lib/p6/third-party/img/libimg.a	63dc9cffee246cbb
+7015	8451	6977310012631886	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	ec76140c21e12e6a
 10	2428	6977309952398352	lib/p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj	78391f67ce8c1455
 969	2540	6977309953528624	lib/p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj	c26347bfcbdb9dfd
+7827	9429	6977310022424046	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj	6b16c6fa67010d9a
 19	2658	6977309954698874	lib/p6/CMakeFiles/p6.dir/src/Shader.cpp.obj	744b88a3f17b5998
+3795	7941	6977310007510745	lib/p6/third-party/exe_path/CMakeFiles/exe_path.dir/src/exe_path.cpp.obj	bdfbbd85287a4371
 1954	2917	6977309957289490	lib/p6/third-party/glpp-extended/CMakeFiles/glpp-extended.dir/src/RenderTarget.cpp.obj	b5a0f3c89b2444e9
-1472	3049	6977309958539758	lib/p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj	f24a9972fab5f842
-2540	3266	6977309960780234	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.obj	104f2d11229074f7
 1618	3294	6977309960820266	lib/p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj	f7eb418a122fc5c2
 1711	3339	6977309961340378	lib/p6/third-party/glpp-extended/CMakeFiles/glpp-extended.dir/src/Program.cpp.obj	b7dc71a99c4a364b
+5199	5334	6977309981474880	lib/p6/third-party/glpp-extended/lib/glpp/libglpp.a	6a8280a0ab22f391
 2429	3409	6977309962190568	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Miscellaneous.cpp.obj	85133869e6b8e5d9
+6823	8483	6977310012911931	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	27225ba648dcfd40
 2369	3594	6977309964050971	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/check_errors.cpp.obj	88ec7facd317780c
-2659	3794	6977309966021413	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.obj	7bafd91546f88164
-2917	3871	6977309966811588	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.obj	e9a9ae500eaab037
 3049	3948	6977309967601802	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Texture.cpp.obj	5c4dc95e0b768283
-1052	4053	6977309968632086	lib/p6/CMakeFiles/p6.dir/src/random.cpp.obj	bf85af676efca8eb
+3948	5379	6977309981894978	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/context.c.obj	682cad7cda71046d
+7949	8566	6977310013792144	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/misc/cpp/imgui_stdlib.cpp.obj	36a469333aa360e9
+2659	3794	6977309966021413	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.obj	7bafd91546f88164
+4054	5515	6977309983245307	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/init.c.obj	78ba27f5b38135be
+2917	3871	6977309966811588	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.obj	e9a9ae500eaab037
+42	6500	6977309993097497	lib/p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj	87dc046924de9381
+26	2718	6977401263701339	lib/p6/CMakeFiles/p6.dir/src/random.cpp.obj	bf85af676efca8eb
 3595	4176	6977309969892274	lib/p6/third-party/img/CMakeFiles/stb_image.dir/lib/stb_image/stb_image_write.cpp.obj	41ce5c68778afc05
+5491	6862	6977309996698305	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	93e75861ba711dfa
+6501	7949	6977310007580751	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	d7dd13410aceecd5
 3340	4755	6977309975663590	lib/p6/third-party/img/CMakeFiles/stb_image.dir/lib/stb_image/stb_image.cpp.obj	c37ad2f9b11be9a9
-4755	4883	6977309976973859	lib/p6/third-party/img/libstb_image.a	3a014ef6d8283c64
-16	4966	6977309977714032	lib/p6/CMakeFiles/p6.dir/src/Context.cpp.obj	cf72fdb16c4107a6
+6844	8225	6977310010361372	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	4c865079ba30b9a2
+19	3933	6977401275803956	lib/p6/CMakeFiles/p6.dir/src/Context.cpp.obj	cf72fdb16c4107a6
+5050	5199	6977309980104591	lib/p6/third-party/glpp-extended/lib/glpp/libglad.a	2909b172754b38ec
+4977	6396	6977309992087294	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	72292024114740bd
 3295	4976	6977309977854064	lib/p6/third-party/img/CMakeFiles/img.dir/src/Load.cpp.obj	5f8f513d517056a0
 3266	5049	6977309978614267	lib/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glad.dir/third-party/glad/src/gl.c.obj	df6aed519ba28e90
 3410	5110	6977309979174388	lib/p6/third-party/img/CMakeFiles/img.dir/src/Save.cpp.obj	8fc3689c96f41cbb
-5050	5199	6977309980104591	lib/p6/third-party/glpp-extended/lib/glpp/libglad.a	2909b172754b38ec
-5111	5248	6977309980594702	lib/p6/third-party/img/libimg.a	63dc9cffee246cbb
-5199	5334	6977309981474880	lib/p6/third-party/glpp-extended/lib/glpp/libglpp.a	6a8280a0ab22f391
-3948	5379	6977309981894978	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/context.c.obj	682cad7cda71046d
 3871	5468	6977309982795186	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/input.c.obj	58e9ef8ece49aad
-5334	5491	6977309982945211	lib/p6/third-party/glpp-extended/libglpp-extended.a	29be01bf9c0b4526
-4054	5515	6977309983245307	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/init.c.obj	78ba27f5b38135be
 4177	5628	6977309984395554	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	88e1564a44f9ab90
-4977	6396	6977309992087294	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	72292024114740bd
 4966	6426	6977309992377345	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	576948d9b122264a
 4884	6432	6977309992417355	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/window.c.obj	866dcbcb74e2e6da
-42	6500	6977309993097497	lib/p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj	87dc046924de9381
 5248	6742	6977309995548038	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	c5a5e0abf9bcd79e
 5380	6823	6977309996228191	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	c9ca5626a9024fe3
 5469	6844	6977309996548284	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	c7e2fb778b2e297e
-5491	6862	6977309996698305	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	93e75861ba711dfa
-5516	7015	6977309998178699	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	94340e015d65ed1b
 5629	7069	6977309998798779	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	d5e8a42d7e9a6cdc
 6426	7802	6977310006110407	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	29d07a509d694a00
+6863	8380	6977310011911731	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	816b924551fc03ad
 6432	7827	6977310006390490	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/backends/imgui_impl_opengl3.cpp.obj	cc302e14c3cf7651
 6396	7840	6977310006460492	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	66cba529de713a55
-3795	7941	6977310007510745	lib/p6/third-party/exe_path/CMakeFiles/exe_path.dir/src/exe_path.cpp.obj	bdfbbd85287a4371
-6501	7949	6977310007580751	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	d7dd13410aceecd5
-7941	8125	6977310009341122	lib/p6/third-party/exe_path/libexe_path.a	628a1fc5f10fe222
-6742	8186	6977310009971270	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	a1b29f291d78c599
-6844	8225	6977310010361372	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	4c865079ba30b9a2
-6863	8380	6977310011911731	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	816b924551fc03ad
-7015	8451	6977310012631886	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	ec76140c21e12e6a
-6823	8483	6977310012911931	lib/p6/third-party/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	27225ba648dcfd40
-7949	8566	6977310013792144	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/misc/cpp/imgui_stdlib.cpp.obj	36a469333aa360e9
 8484	8611	6977310014212299	lib/p6/third-party/glfw/src/libglfw3.a	90b0b9f1ab71712e
 7070	9051	6977310018623202	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj	8dbc55bcf99d3333
-7827	9429	6977310022424046	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj	6b16c6fa67010d9a
 8186	9860	6977310026745010	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/backends/imgui_impl_glfw.cpp.obj	bab3717533e617d1
 7803	9905	6977310027155197	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj	1a0d39d1666ab238
-6	10105	6977310029145625	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
+12	5179	6993862782061730	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
 7841	10155	6977310029695790	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj	adf3cc856bccafd1
 8126	11098	6977310039097870	lib/p6/third-party/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj	a68a7a248413c2bf
 11098	11263	6977310040788252	lib/p6/third-party/imgui/libImGui.a	5cec4616009144d6
-11263	11561	6977310043758922	lib/p6/libp6.a	9969d899075aac43
-11561	12822	6977310056301228	Simple-p6-Setup.exe	bd49729843bdcfc4
-16	71	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-26	2718	6977401263701339	lib/p6/CMakeFiles/p6.dir/src/random.cpp.obj	bf85af676efca8eb
-19	3933	6977401275803956	lib/p6/CMakeFiles/p6.dir/src/Context.cpp.obj	cf72fdb16c4107a6
 3933	4476	6977401281275147	lib/p6/libp6.a	9969d899075aac43
-33	7728	6977401313732545	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-7728	9478	6977401331243026	Simple-p6-Setup.exe	bd49729843bdcfc4
-5	46	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-7	50	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-14	7122	6977403953850468	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-7122	9231	6977403974905355	Simple-p6-Setup.exe	bd49729843bdcfc4
-5	30	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-9	4783	6977404293172411	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-4784	6201	6977404307364908	Simple-p6-Setup.exe	bd49729843bdcfc4
-4	32	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-10	5362	6977404551626767	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-5363	6743	6977404565374920	Simple-p6-Setup.exe	bd49729843bdcfc4
-5	36	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-12	7014	6977413443824857	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-7014	8732	6977413461015086	Simple-p6-Setup.exe	bd49729843bdcfc4
-3	31	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-9	5571	6977415046849342	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-5571	6975	6977415060895590	Simple-p6-Setup.exe	bd49729843bdcfc4
-4	36	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-14	6873	6977415877440785	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-6874	8888	6977415897573792	Simple-p6-Setup.exe	bd49729843bdcfc4
-6	36	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-13	6980	6977416202628369	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-6981	8678	6977416219617063	Simple-p6-Setup.exe	bd49729843bdcfc4
-5	37	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-18	7109	6977416647022534	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-7110	8737	6977416663316566	Simple-p6-Setup.exe	bd49729843bdcfc4
-4	33	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-6	38	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-13	6920	6977418129184893	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-6920	8328	6977418143246074	Simple-p6-Setup.exe	bd49729843bdcfc4
-6	50	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-21	7565	6977432625709565	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-7566	9686	6977432646922504	Simple-p6-Setup.exe	bd49729843bdcfc4
-4	31	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-12	5133	6977433380905218	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-5133	6569	6977433395280132	Simple-p6-Setup.exe	bd49729843bdcfc4
-24	70	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-4	36	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-14	4911	6979905691361406	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-4911	6485	6979905707117328	Simple-p6-Setup.exe	bd49729843bdcfc4
-31	73	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-13	202	6981725022479811	CMakeFiles/Simple-p6-Setup.dir/src/tests.cpp.obj	a3dfa4e493006d5f
-202	2556	6981725045867535	Simple-p6-Setup.exe	bd49729843bdcfc4
-3	28	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-6	35	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-15	10020	6981736092969614	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-10021	11469	6981736107439377	Simple-p6-Setup.exe	bd49729843bdcfc4
-3	30	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-17	5197	6981751857012091	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-5197	6701	6981751872009177	Simple-p6-Setup.exe	bd49729843bdcfc4
-4	32	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-14	5674	6981752928133065	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-5675	7083	6981752942187762	Simple-p6-Setup.exe	bd49729843bdcfc4
-5	38	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
-12	6623	6981753149790706	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	7896cfcf2dc929bd
-6623	8057	6981753164088943	Simple-p6-Setup.exe	bd49729843bdcfc4
+5180	6632	6993862796656256	Simple-p6-Setup.exe	bd49729843bdcfc4
+2	32	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+66	224	6993879471552478	_deps/p6-build/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj	c5bcedb98e924f31
+13	236	6993879471652504	CMakeFiles/Simple-p6-Setup.dir/src/tests.cpp.obj	fc3ee0a4929a11b4
+73	436	6993879473682961	_deps/p6-build/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj	d3881d189ead4a90
+40	1114	6993879480364481	_deps/p6-build/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj	e2a92678b20fe93b
+52	1641	6993879485185576	_deps/p6-build/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj	4e24c8372d21a93d
+45	1720	6993879486055777	_deps/p6-build/CMakeFiles/p6.dir/src/internal/OpenGL_Debug.cpp.obj	91d16fa692c91127
+436	1971	6993879488736408	_deps/p6-build/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj	cc6d3c3da013cb80
+59	2111	6993879489966660	_deps/p6-build/CMakeFiles/p6.dir/src/Transform2D.cpp.obj	8835c07ad7d53b31
+1971	2852	6993879497638413	_deps/p6-build/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj	58c342fcfdfd0a53
+1114	3241	6993879501569273	_deps/p6-build/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj	7d7c1b847f45bbdc
+236	3290	6993879502129408	_deps/p6-build/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj	e1bc50392375a53c
+1721	3374	6993879502859607	_deps/p6-build/CMakeFiles/p6.dir/src/internal/TransformStack.cpp.obj	3a73861b50c19607
+27	3670	6993879505930284	_deps/p6-build/CMakeFiles/p6.dir/src/Image.cpp.obj	f1d114d12dfdbd3a
+2853	3980	6993879509060991	_deps/p6-build/CMakeFiles/p6.dir/src/math.cpp.obj	e3628dfcfc84688b
+33	4006	6993879509010985	_deps/p6-build/CMakeFiles/p6.dir/src/Shader.cpp.obj	e174da838d7694a2
+2113	4075	6993879509731152	_deps/p6-build/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj	f57061533f84ea4
+18	4368	6993879512811853	_deps/p6-build/CMakeFiles/p6.dir/src/Canvas.cpp.obj	dae23f5833ee533a
+1642	4388	6993879513001912	_deps/p6-build/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj	a4e191fecad8130c
+3290	4566	6993879514872323	_deps/p6-build/third-party/glpp-extended/CMakeFiles/glpp-extended.dir/src/DepthBuffer.cpp.obj	751cec8f80e4f260
+3374	5078	6993879519933479	_deps/p6-build/third-party/glpp-extended/CMakeFiles/glpp-extended.dir/src/RenderTarget.cpp.obj	c1b85ba3371902c6
+3981	5163	6993879520783639	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.obj	1dd8e8c0634b071e
+4006	5351	6993879522504068	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Texture.cpp.obj	3df37cf475ca61b8
+4567	5473	6993879523994380	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.obj	2a42bf1a9532cd15
+4075	5530	6993879524354453	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.obj	17c89f56be25c64e
+4369	6101	6993879530025754	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/check_errors.cpp.obj	b69d80a521e6a654
+3670	6217	6993879531406060	_deps/p6-build/third-party/glpp-extended/CMakeFiles/glpp-extended.dir/src/Program.cpp.obj	d4f41b5c3176c215
+5351	6295	6993879532236277	_deps/p6-build/third-party/img/CMakeFiles/stb_image.dir/lib/stb_image/stb_image_write.cpp.obj	23d70a39f6c36223
+5078	6392	6993879533166476	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir/src/glpp/Functions/Miscellaneous.cpp.obj	ae948ef82b2df13b
+3242	7313	6993879542318516	_deps/p6-build/CMakeFiles/p6.dir/src/random.cpp.obj	9bd23d435391bbc1
+5473	7385	6993879543098727	_deps/p6-build/third-party/img/CMakeFiles/stb_image.dir/lib/stb_image/stb_image.cpp.obj	5460339eeaab9d0f
+4388	7417	6993879543228839	_deps/p6-build/third-party/glpp-extended/lib/glpp/CMakeFiles/glad.dir/third-party/glad/src/gl.c.obj	393fb0a77983cfd7
+22	7454	6993879543628840	_deps/p6-build/CMakeFiles/p6.dir/src/Context.cpp.obj	5850a7b7613da2cb
+5163	7569	6993879544809150	_deps/p6-build/third-party/img/CMakeFiles/img.dir/src/Save.cpp.obj	7a7f2cd20f976648
+7419	7665	6993879545699280	_deps/p6-build/third-party/glpp-extended/lib/glpp/libglad.a	dd1547cead446cc2
+7390	7673	6993879545709319	_deps/p6-build/third-party/img/libstb_image.a	67ae1e84671b904a
+5531	7766	6993879546819539	_deps/p6-build/third-party/img/CMakeFiles/img.dir/src/Load.cpp.obj	1b9bf3b488e10a72
+7665	7910	6993879548289859	_deps/p6-build/third-party/glpp-extended/lib/glpp/libglpp.a	df6a0aba0f945c1c
+7767	8071	6993879549790205	_deps/p6-build/third-party/img/libimg.a	c75a6ac462103068
+7911	8233	6993879551560673	_deps/p6-build/third-party/glpp-extended/libglpp-extended.a	78897b23bfed97d
+6217	8447	6993879553731106	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	32ef6a41fc55ae57
+6392	8473	6993879553611094	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/init.c.obj	e18924a291ea52a2
+6296	8509	6993879554151189	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/context.c.obj	4a35ec0d87472fee
+225	8849	6993879557522021	_deps/p6-build/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj	536b8df4231024e7
+7569	9197	6993879561102806	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	4037fa5d8a241c7f
+7673	9399	6993879563023222	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	2ad57feab0505c0f
+7455	9445	6993879563573343	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	92be3e41356c5340
+7313	9502	6993879564153497	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/input.c.obj	92494cb9fa51c26
+8071	9851	6993879567734285	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	486c9f9d2fd6a31a
+8474	10240	6993879571665172	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	6630b84e759c31b7
+8509	10265	6993879571945297	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	d9d501188d03c900
+8233	10281	6993879572045276	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/window.c.obj	5b53c3481986183a
+8447	10347	6993879572615376	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	c267d2a2ed33eb0c
+8849	10701	6993879576286218	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	635a04bd52ddbe57
+9198	10780	6993879576936370	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	96880b7d390cde09
+9400	11039	6993879579666986	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	348974de1dfa1fd1
+9445	11076	6993879580037090	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	a61a57770fb09540
+9502	11174	6993879581007297	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	dcc3d98b104db4cd
+6102	11238	6993879581627429	_deps/p6-build/third-party/exe_path/CMakeFiles/exe_path.dir/src/exe_path.cpp.obj	768873fb006da755
+9851	11452	6993879583727919	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	d7284f23cebcb827
+11239	11483	6993879583967979	_deps/p6-build/third-party/exe_path/libexe_path.a	e447a68efb74627e
+11076	11801	6993879587308743	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/misc/cpp/imgui_stdlib.cpp.obj	c944d4915882b52e
+10282	11880	6993879588098932	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	3b4ff7db4f91bdfb
+10241	11904	6993879588348975	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	a29b013b470360fd
+10266	12188	6993879591199587	_deps/p6-build/third-party/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	d985d4baf3d472af
+12189	12323	6993879592539909	_deps/p6-build/third-party/glfw/src/libglfw3.a	d3adec1819277c
+11452	12763	6993879596950889	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/backends/imgui_impl_opengl3.cpp.obj	2786c55d3b18003d
+10780	12816	6993879597461022	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj	255cf9700f5cfa55
+11040	13032	6993879599631474	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj	30a53c63bcfde803
+11483	13449	6993879603822429	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/backends/imgui_impl_glfw.cpp.obj	36c89b45350a9ca5
+10701	13596	6993879605252762	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj	768060baeb563097
+11174	13612	6993879605432817	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj	3b6318b3ee65a2c5
+8	13779	6993879607063161	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+10348	14348	6993879612744586	_deps/p6-build/third-party/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj	8635f7a356aa9530
+14348	14528	6993879614635014	_deps/p6-build/third-party/imgui/libImGui.a	509de30727465bc4
+14529	14882	6993879618165814	_deps/p6-build/libp6.a	4148892f63f5d897
+14882	16300	6993879632251121	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+4	52	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+4	49	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+18	7500	6993892927439638	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+7500	9720	6993892949602741	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	41	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+15	6793	6993893447351501	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6794	8266	6993893462012823	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	40	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+3	38	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+14	7290	6993895141955479	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+7291	8794	6993895156952468	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	35	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+13	6995	6993895524454933	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6996	8593	6993895540420977	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	52	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+2	32	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+13	6836	6993901148233370	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6836	8432	6993901164212948	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+2	35	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+10	6435	6993905687627677	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6435	7941	6993905702651724	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	43	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+20	7039	6993906384400863	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+7040	9249	6993906406498443	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	44	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+4	46	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+15	6530	6993907587066493	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6530	8043	6993907602142852	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+4	48	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+2	40	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+4	44	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+4	39	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+17	6991	6993930078669818	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6991	9274	6993930101482078	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+5	54	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+3	47	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+3	36	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+13	6791	6993933431701571	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6791	8411	6993933447882833	Simple-p6-Setup.exe	ef36b2f9b8d0fd04
+3	39	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+1	29	0	C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/CMakeFiles/cmake.verify_globs	1c8362fd7ce84470
+13	6834	6993934785883377	CMakeFiles/Simple-p6-Setup.dir/src/main.cpp.obj	d1c3aa4c6db3152b
+6835	8378	6993934801292743	Simple-p6-Setup.exe	ef36b2f9b8d0fd04

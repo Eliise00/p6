@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/lib/p6/cmake_install.cmake")
+  include("C:/Documents/IMAC2/S4/Programmation Objet/p6/cmake-build-debug/_deps/p6-build/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
